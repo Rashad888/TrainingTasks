@@ -1,0 +1,7 @@
+C:\Users\gasum\source\repos\Breakfast\bin\Debug\Breakfast.exe.config
+C:\Users\gasum\source\repos\Breakfast\bin\Debug\Breakfast.exe
+C:\Users\gasum\source\repos\Breakfast\bin\Debug\Breakfast.pdb
+C:\Users\gasum\source\repos\Breakfast\obj\Debug\Breakfast.csprojAssemblyReference.cache
+C:\Users\gasum\source\repos\Breakfast\obj\Debug\Breakfast.csproj.CoreCompileInputs.cache
+C:\Users\gasum\source\repos\Breakfast\obj\Debug\Breakfast.exe
+C:\Users\gasum\source\repos\Breakfast\obj\Debug\Breakfast.pdb
