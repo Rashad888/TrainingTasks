@@ -1,0 +1,13 @@
+CREATE TABLE `Customers` (
+  `id` INT(11) NOT NULL,
+  `name` VARCHAR(25) NOT NULL,
+  PRIMARY KEY (`id`)
+); -- Создание таблицы Customer
+
+CREATE TABLE `Orders` (
+  `id` INT(11) NOT NULL,
+  `CustomerId` VARCHAR(25) NOT NULL,
+  PRIMARY KEY (`id`)
+); -- Создание таблицы Orders
+
+SELECT Cust.Name FROM Customers as Cust LEFT JOIN Orders as Ord ON Cust.Id = Ord.CustomerId AND Ord.CustomerId IS NULL

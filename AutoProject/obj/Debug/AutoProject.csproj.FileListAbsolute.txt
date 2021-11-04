@@ -1,0 +1,7 @@
+C:\Users\gasum\source\repos\AutoProject\bin\Debug\AutoProject.exe.config
+C:\Users\gasum\source\repos\AutoProject\bin\Debug\AutoProject.exe
+C:\Users\gasum\source\repos\AutoProject\bin\Debug\AutoProject.pdb
+C:\Users\gasum\source\repos\AutoProject\obj\Debug\AutoProject.csprojAssemblyReference.cache
+C:\Users\gasum\source\repos\AutoProject\obj\Debug\AutoProject.csproj.CoreCompileInputs.cache
+C:\Users\gasum\source\repos\AutoProject\obj\Debug\AutoProject.exe
+C:\Users\gasum\source\repos\AutoProject\obj\Debug\AutoProject.pdb
